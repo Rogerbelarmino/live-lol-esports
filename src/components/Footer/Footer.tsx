@@ -8,9 +8,6 @@ export function Footer() {
 
     return (
         <nav className="footer-container">
-            <a target="_blank" rel="noreferrer" href="https://github.com/Aureom">
-                <GitHubLogoSVG className="footer-img"/>
-            </a>
             <a target="_blank" rel="noreferrer" href="https://twitter.com/Aureom_">
                 <TwitterLogoSVG  className="footer-img"/>
             </a>
